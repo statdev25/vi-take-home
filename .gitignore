@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Vi Internal Panelist Materials
+internal/
+
+.DS_Store
+
+# Uncompressed claims extract (161MB, exceeds GitHub's 100MB limit);
+# the original-format data_web_claims.csv.gz is committed instead.
+data/data_web_claims.csv
